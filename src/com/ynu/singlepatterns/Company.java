@@ -1,4 +1,4 @@
-package designpatterns;
+package com.ynu.singlepatterns;
 
 import java.util.ArrayList;
 import java.util.List;

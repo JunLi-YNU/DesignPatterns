@@ -1,4 +1,4 @@
-package designpatterns;
+package com.ynu.singlepatterns;
 
 /**
  * ÆÕÍ¨Ô±¹¤

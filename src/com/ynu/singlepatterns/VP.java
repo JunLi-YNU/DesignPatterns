@@ -1,4 +1,4 @@
-package designpatterns;
+package com.ynu.singlepatterns;
 /**
  * ¸±×Ü²Ã
  * @author 12068
