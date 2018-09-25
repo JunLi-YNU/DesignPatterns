@@ -1,4 +1,4 @@
-package com.ynu.singlepatterns;
+package com.ynu.singlepatterns.singlepattern_one;
 
 /**
  * CEO,¶öººµ¥ÀıÄ£Ê½

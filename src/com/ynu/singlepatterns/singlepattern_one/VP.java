@@ -1,4 +1,5 @@
-package com.ynu.singlepatterns;
+package com.ynu.singlepatterns.singlepattern_one;
+
 /**
  * ¸±×Ü²Ã
  * @author 12068

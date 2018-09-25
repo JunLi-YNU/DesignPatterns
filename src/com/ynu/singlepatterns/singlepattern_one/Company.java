@@ -1,4 +1,4 @@
-package com.ynu.singlepatterns;
+package com.ynu.singlepatterns.singlepattern_one;
 
 import java.util.ArrayList;
 import java.util.List;
